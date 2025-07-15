@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Supreme Suwal</h1>
 <h3 align="center">A passionate web developer from Bhaktapur</h3>
 
+<img align ="right" alt="gif coding" width = "450" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumina-awa&label=Profile%20views&color=0e75b6&style=flat" alt="sumina-awa" /> </p>
+
+
 - 🔭 I’m currently working on **self development**
 
 - 🌱 I’m currently learning **web development**
